@@ -4,7 +4,7 @@ The dataset it´s from Maven Analytics. It contains Churn data for a fictional T
 that provides phone and internet services to 7,043 customers in California, 
 and includes details about customer demographics, location, services, and current status.
 
-Find the [Final Presentation] (https://docs.google.com/presentation/d/18SMTDCLt2RJJJDQwqneRUjxlpapuwqdehKqBPaOEA0E/edit#slide=id.p) here.
+Find the [Final Presentation](https://docs.google.com/presentation/d/18SMTDCLt2RJJJDQwqneRUjxlpapuwqdehKqBPaOEA0E/edit#slide=id.p) here.
 
 In this analysis I will try to address the following business questions:
 
